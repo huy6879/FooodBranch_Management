@@ -1,0 +1,15 @@
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\bin\Debug\net8.0\QLBH.Common.deps.json
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\bin\Debug\net8.0\QLBH.Common.dll
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\bin\Debug\net8.0\QLBH.Common.pdb
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.AssemblyInfoInputs.cache
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.AssemblyInfo.cs
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.csproj.CoreCompileInputs.cache
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.dll
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\refint\QLBH.Common.dll
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.pdb
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\ref\QLBH.Common.dll
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\bin\Debug\net8.0\QLBH.Common.runtimeconfig.json
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.csproj.AssemblyReference.cache
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.genruntimeconfig.cache
+C:\Users\MSI VN\Desktop\QLBH\QLBH.Common\obj\Debug\net8.0\QLBH.Common.sourcelink.json
