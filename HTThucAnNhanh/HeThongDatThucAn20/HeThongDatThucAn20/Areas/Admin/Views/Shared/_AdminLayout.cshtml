@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="~/Asset/css/style.css">
+</head>
+<body>
+ 
+    <div class="container">
+        <header class="header">
+            <div class="logo">
+                <h3 style="display: inline;">Korean Food Quản Lý</h3>
+            </div>
+            <nav class="navigation">
+                <ul>
+                    @if (User.IsInRole("Manager"))
+                    {
+                        <li><a asp-controller="ThongKe" asp-action="Index1">Thống Kê</a></li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="ThongKe" asp-action="Index">Thống Kê</a></li>
+                    }
+@*                     <li><a asp-controller="MAccounts" asp-action="Index">Tài khoản</a></li>
+ *@                 <li><a asp-controller="Products" asp-action="ProductList">Sản Phẩm</a></li>
+                    <li><a asp-controller="Category" asp-action="CateList">Loại Sản Phẩm</a></li>
+                    <li><a asp-controller="Order" asp-action="ListOrder">Đơn hàng</a></li>
+                    <li><a asp-controller="Branches" asp-action="ListBranch">Chi nhánh</a></li>
+
+                </ul>
+            </nav>
+            <div class="user-profile">
+                <span>@Context.User.Identity.Name</span>
+@*                 <a asp-action="DangXuat" asp-controller="KhachHang">Logout</a>
+ *@            </div>
+        </header>
+    </div>
+    <div style="min-height:700px">
+        
+
+        @RenderBody()
+    </div>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

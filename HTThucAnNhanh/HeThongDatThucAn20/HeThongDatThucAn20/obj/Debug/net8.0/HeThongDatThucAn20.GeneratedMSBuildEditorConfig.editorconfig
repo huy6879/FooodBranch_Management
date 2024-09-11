@@ -1,0 +1,275 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HeThongDatThucAn20
+build_property.RootNamespace = HeThongDatThucAn20
+build_property.ProjectDir = C:\Users\MSI VN\Desktop\FooodBranch_Management\HTThucAnNhanh\HeThongDatThucAn20\HeThongDatThucAn20\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\MSI VN\Desktop\FooodBranch_Management\HTThucAnNhanh\HeThongDatThucAn20\HeThongDatThucAn20
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Branches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmNoZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Branches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmNoZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Branches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmNoZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Branches/ListBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmNoZXNcTGlzdEJyYW5jaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Category/CateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ2F0ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MAccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTUFjY291bnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MAccounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTUFjY291bnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MAccounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTUFjY291bnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MAccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTUFjY291bnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MAccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTUFjY291bnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVByb2R1Y3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVByb2R1Y3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVByb2R1Y3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/MProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVByb2R1Y3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Order/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Order/ListOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcTGlzdE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Products/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Products/SearchSP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcU2VhcmNoU1AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Shared/_ManagerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9NYW5hZ2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Shared/_SlideViewPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TbGlkZVZpZXdQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/ThongKe/DoanhThu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdLZVxEb2FuaFRodS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/ThongKe/DoanhThuBR.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdLZVxEb2FuaFRodUJSLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/ThongKe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdLZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/ThongKe/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdLZVxJbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Branch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Branch/ListBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXExpc3RCcmFuY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Branch/SearchByDistrict.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXFNlYXJjaEJ5RGlzdHJpY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Cart/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/KhachHang/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmdLeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/KhachHang/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/Components/MenuLoai/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUxvYWlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_LayoutDangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREYW5nS3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_LayoutMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI VN/Desktop/FooodBranch_Management/HTThucAnNhanh/HeThongDatThucAn20/HeThongDatThucAn20/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ds4wvzbkkj
